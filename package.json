@@ -1,0 +1,20 @@
+{
+  "name": "tripadvisor-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tripadvisor Scraper: Scrape Tripadvisor hotels, restaurants and attractions: rating, ranking, price, address, phone, email and amenities. No login needed. Export to JSON or CSV.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "tripadvisor"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}

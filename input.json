@@ -1,0 +1,13 @@
+{
+  "query": "Chicago",
+  "maxItemsPerQuery": 10,
+  "language": "en",
+  "currency": "USD",
+  "maxPhotosPerPlace": 0,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
